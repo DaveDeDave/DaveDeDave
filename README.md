@@ -1,7 +1,8 @@
 ## Hi there, I'm Davide 👋
-[![proton_mail_contact](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto://davededave@protonmail.com)
-![arch_linux_user](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-[![replit_user](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://www.replit.com/@DaveDeDave)
+[![protonmail_contact](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto://davededave@protonmail.com)
+![archlinux_user](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+[![replit_account](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://www.replit.com/@DaveDeDave)
+[![hackthebox_account](https://img.shields.io/badge/HackTheBox-9acb12?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.eu/profile/361898)
 
 ### About me
 - 🎂 I'm 22
@@ -14,3 +15,6 @@
 - 💻 Full Stack Developer
 - 📱 &nbsp; Android Developer
 - ☠ Basic Web-Application Pentesting
+
+### My profiles on other platform
+- [HackTheBox](https://app.hackthebox.eu/profile/361898)
