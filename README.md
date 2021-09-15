@@ -13,7 +13,7 @@
 
 ### Skills and Experience
 - 💻 Full Stack Developer
-- 📱 &nbsp; Android Developer
+- 📱 Android Developer
 - ☠ Basic Web-Application Pentesting
 
 ### My profiles on other platform
