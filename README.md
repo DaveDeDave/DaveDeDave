@@ -6,7 +6,7 @@
 
 ### About me
 - 🎂 I'm 22
-- 🎓 I'm currently studying computer science at University of Eastern Piedmont
+- 🎓 I'm currently studying computer science at the University of Eastern Piedmont
 - 📖 I'm interested in many fields of computer science such as software development, cyber security and deep learning
 - 😆 I'm always excited to try new technologies
 - 📫 For any request, contact me here: davededave@protonmail.com 
