@@ -4,7 +4,7 @@
 [![replit_account](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://www.replit.com/@DaveDeDave)
 [![hackthebox_account](https://img.shields.io/badge/HackTheBox-9acb12?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.eu/profile/361898)
 [![hackerrank_account](https://img.shields.io/badge/HackerRank-32c766?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/DaveDeDave)
-
+[![linkedin account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-ceci-3571a2230)
 ### About me
 - 🎂 I'm 22
 - 🎓 I'm currently studying computer science at the University of Eastern Piedmont
