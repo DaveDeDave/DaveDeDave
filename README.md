@@ -6,7 +6,7 @@
 [![hackerrank_account](https://img.shields.io/badge/HackerRank-32c766?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/DaveDeDave)
 [![linkedin account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-ceci-3571a2230)
 ### About me
-- 🎂 I'm 22
+- 🎂 I'm 23
 - 🎓 I'm currently studying computer science at the University of Eastern Piedmont
 - 📖 I'm interested in many fields of computer science such as software development, cyber security and deep learning
 - 😆 I'm always excited to try new technologies
