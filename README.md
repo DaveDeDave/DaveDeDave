@@ -17,6 +17,11 @@
 - 📱 Android Developer
 - ☠ Basic Web-Application Pentesting
 
+### More about me and my coding journey
+I mainly code in javascript for most of my projects but i know very well java and python as well. Anyway, i could code in any programming language and i like new challenges.
+Regarding my full stack experience, i focus more on back-end development and i'm really interested in scalable web apps development, microservice architecture and cloud services potential (AWS, GCP, etc.). 
+For front-end development, i use principally Vue.js but i have used also React. In the last year, i started to appreciate a lot utility-first CSS frameworks (like Tailwind CSS) and i also want to improve my UI/UX design skills.
+
 ### My profiles on other platform
 - [HackTheBox](https://app.hackthebox.eu/profile/361898)
 - [HackerRank](https://www.hackerrank.com/DaveDeDave)
