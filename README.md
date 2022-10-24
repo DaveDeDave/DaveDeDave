@@ -7,8 +7,8 @@
 [![linkedin account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-ceci-3571a2230)
 ### About me
 - 🎂 I'm 23
-- 🎓 I'm currently studying computer science at the University of Eastern Piedmont
-- 📖 I'm interested in many fields of computer science such as software development, cyber security and deep learning
+- 🎓 I recently graduated in computer science at Università del Piemonte Orientale
+- 📖 I'm interested in many fields of computer science such as software development and cyber security
 - 😆 I'm always excited to try new technologies
 - 📫 For any request, contact me here: davededave@protonmail.com 
 
