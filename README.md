@@ -1,7 +1,7 @@
 ## Hi there, I'm Davide 👋
 
 ### 😁 About me
-- 🎂 I'm 24
+- 🎂 I'm 25
 - 🎓 Graduated in computer science at Università del Piemonte Orientale
 - 👀 Fullstack Developer who's interested in cyber security aspects
 - 🤓 I'm always excited to try out new technologies and I'm eager to learn
